@@ -21,7 +21,7 @@ public class Solution {
         int oIndex = 0;
         while (oIndex < nums.length && nums[oIndex] != 0) oIndex++;
 
-        // 当前第一个值不为0的索引
+        // oIndex之后第一个值不为0的索引
         int notOIndex = oIndex + 1;
         while (notOIndex < nums.length && nums[notOIndex] == 0) notOIndex++;
 
