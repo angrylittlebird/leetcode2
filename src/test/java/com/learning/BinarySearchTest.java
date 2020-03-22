@@ -58,4 +58,18 @@ public class BinarySearchTest {
         int index = binarySearch.findIndexNotRecursive(11, new int[]{0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10});
         Assert.assertEquals(-1, index);
     }
+
+    @Test
+    public void findIndexNotRecursize2() {
+        long startTime = System.currentTimeMillis();
+        for (int i = 0; i < size; i++) {
+            int index = binarySearch.findIndexNotRecursive2(i, array);
+            Assert.assertEquals(i, index);
+        }
+        long endTime = System.currentTimeMillis();
+        System.out.println("running time:" + (endTime - startTime));
+
+        int index = binarySearch.findIndexNotRecursive2(11, new int[]{0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10});
+        Assert.assertEquals(-1, index);
+    }
 }
