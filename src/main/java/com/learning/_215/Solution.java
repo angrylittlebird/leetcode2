@@ -12,7 +12,7 @@ import java.util.Random;
  * Output: 4
  */
 
-//平均复杂度O(N), don't know how to get this solution of time complicated.
+//平均时间复杂度O(N), don't know how to get this solution of time complicated.
 public class Solution {
     static Random random = new Random();
 
