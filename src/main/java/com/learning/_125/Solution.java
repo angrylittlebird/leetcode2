@@ -1,8 +1,6 @@
 package com.learning._125;
 
 import java.util.ArrayList;
-import java.util.List;
-import java.util.regex.Matcher;
 
 /**
  * @Author: ZHANG
@@ -26,7 +24,7 @@ public class Solution {
         ArrayList<String> list = new ArrayList<>();
         for (int i = 0; i < s.length(); i++) {
             String currentChar = String.valueOf(s.charAt(i));
-            if(currentChar.matches("[0-9a-zA-Z]")){
+            if (currentChar.matches("[0-9a-zA-Z]")) {
                 list.add(currentChar);
             }
         }
