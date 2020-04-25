@@ -45,7 +45,7 @@ public class Solution {
         ArrayList<Integer> res = new ArrayList<>();
         char[] chars = s.toCharArray();
 
-        //English letters ==> 26
+        //lowercase English letters only ==> 26
         // index代表字符，value代表频率
         int[] windows = new int[26];
         int[] needs = new int[26];
