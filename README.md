@@ -17,3 +17,4 @@
 | 12 | 209 Minimum Size Subarray Sum |https://leetcode-cn.com/problems/minimum-size-subarray-sum/submissions/|[MySolution_HardToUnderStand](./src/main/java/com/learning/_209/Solution.java),[EasyToUnderStand](./src/main/java/com/learning/_209/Solution2.java)| array |2020/4/19|
 | 13 | 3 Longest Substring Without Repeating Characters |https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/|[Solution](./src/main/java/com/learning/_3/Solution.java),[Solution2](./src/main/java/com/learning/_3/Solution2.java),[Solution3](./src/main/java/com/learning/_3/Solution3.java)| array |2020/4/23~24|
 | 14 | 438 Find All Anagrams in a String |https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/|[Solution](./src/main/java/com/learning/_438/Solution.java)| array |2020/4/25|
+| 15 | 76. Minimum Window Substring |https://leetcode-cn.com/problems/minimum-window-substring/|[Solution](./src/main/java/com/learning/_76/Solution.java)| array |2020/4/26|
