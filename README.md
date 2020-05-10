@@ -25,3 +25,5 @@
 | 20 | 290. Word Pattern |https://leetcode-cn.com/problems/word-pattern/|[Solution](./src/main/java/com/learning/_290/Solution.java)| query |2020/5/9|
 | 21 | 205. Isomorphic Strings |https://leetcode-cn.com/problems/isomorphic-strings/|[Solution](./src/main/java/com/learning/_205/Solution.java)| query |2020/5/9|
 | 22 | 451. Sort Characters By Frequency |https://leetcode-cn.com/problems/sort-characters-by-frequency/|[Solution](./src/main/java/com/learning/_451/Solution.java)| query |2020/5/9|
+| 23 | 1. Two Sum |https://leetcode-cn.com/problems/two-sum/|[Solution](./src/main/java/com/learning/_1/Solution.java)| query |2020/5/9|
+| 24 | 15. 3Sum |https://leetcode-cn.com/problems/3sum/|[Solution](./src/main/java/com/learning/_15/Solution.java)| query |2020/5/9|
