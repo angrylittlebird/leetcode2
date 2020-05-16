@@ -30,4 +30,5 @@
 | 25 | 18. 4Sum |https://leetcode-cn.com/problems/4sum/|[Solution](./src/main/java/com/learning/_18/Solution.java)| query |2020/5/10|
 | 26 | 16. 3Sum Closest |https://leetcode-cn.com/problems/3sum-closest/|[Solution](./src/main/java/com/learning/_16/Solution.java)| query |2020/5/11|
 | 27 | 454. 4Sum II |https://leetcode-cn.com/problems/4sum-ii/|[Solution](./src/main/java/com/learning/_454/Solution.java)| query |2020/5/11|
-| 28 | 49. Group Anagrams |https://leetcode-cn.com/problems/group-anagrams/|[Solution](./src/main/java/com/learning/_49/Solution.java)| query |2020/5/11|
+| 28 | 49. Group Anagrams |https://leetcode-cn.com/problems/group-anagrams/|[Solution](./src/main/java/com/learning/_49/Solution.java)，[Solution](./src/main/java/com/learning/_49/Solution2.java)| query |2020/5/11~13|
+| 29 | 447. Number of Boomerangs |https://leetcode-cn.com/problems/number-of-boomerangs/|[Solution](./src/main/java/com/learning/_447/Solution.java)| query |2020/5/13|
