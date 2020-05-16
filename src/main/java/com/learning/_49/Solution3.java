@@ -27,34 +27,46 @@ import java.util.List;
  * 链接：https://leetcode-cn.com/problems/group-anagrams
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  */
-public class Solution2 {
-    //正整数的唯一分解定理，即：每个大于1的自然数，要么本身就是质数，要么可以写为2个以上的质数的积，而且这些质因子按大小排列之后，写法仅有一种方式。
-    private static final int[] PRIMES = new int[]{2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97, 101, 107};
-
+public class Solution3 {
     public List<List<String>> groupAnagrams(String[] strs) {
         List<List<String>> res = new ArrayList<>();
 
-        HashMap<Integer, Integer> freqStrToIndex = new HashMap<>();
+        HashMap<String, Integer> strToIndex = new HashMap<>();
 
         for (String str : strs) {
-            int hash = 1;
+
+            int[] strArr = new int[26];
             for (char c : str.toCharArray()) {
-                hash *= PRIMES[c - 'a'];
+                strArr[c - 'a']++;
             }
 
-            Integer integer = freqStrToIndex.get(hash);
 
+            //这里的排序感觉还不如直接用Arrays.sort 呢。。。
+            StringBuilder sb = new StringBuilder();
+            for (int i = 0; i < strArr.length; i++) {
+                for (int j = 0; j < strArr[i]; j++) {
+                    sb.append((char) ('a' + i));
+                }
+            }
+
+            Integer integer = strToIndex.get(sb.toString());
             if (integer == null) {
-                freqStrToIndex.put(hash, res.size());
+                strToIndex.put(sb.toString(), res.size());
                 ArrayList<String> list = new ArrayList<>();
-                res.add(list);
                 list.add(str);
+                res.add(list);
             } else {
-                res.get(freqStrToIndex.get(hash)).add(str);
+                res.get(strToIndex.get(sb.toString())).add(str);
             }
         }
 
 
         return res;
+    }
+
+    public static void main(String[] args) {
+        Solution3 solution3 = new Solution3();
+        List<List<String>> lists = solution3.groupAnagrams(new String[]{"eat", "tea", "tan", "ate", "nat", "bat"});
+//        List<List<String>> lists = solution3.groupAnagrams(new String[]{"boo", "bob"});
     }
 }
