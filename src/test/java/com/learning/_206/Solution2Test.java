@@ -5,14 +5,14 @@ import org.junit.Test;
 
 /**
  * @Author: ZHANG
- * @Date: 2020/5/22
+ * @Date: 2020/6/4
  * @Description:
  */
-public class SolutionTest {
+public class Solution2Test {
 
     @Test
     public void reverseList() {
-        Solution solution = new Solution();
+        Solution2 solution = new Solution2();
         ListNode listNode = new ListNode(1);
         listNode.next = new ListNode(2);
         listNode.next.next = new ListNode(3);

@@ -34,4 +34,4 @@
 | 29 | 447. Number of Boomerangs |https://leetcode-cn.com/problems/number-of-boomerangs/|[Solution](./src/main/java/com/learning/_447/Solution.java)| query |2020/5/13|
 | 30 | 219. Contains Duplicate II |https://leetcode-cn.com/problems/contains-duplicate-ii/|[Solution](./src/main/java/com/learning/_219/Solution.java)| query |2020/5/18|
 | 31 | 220. Contains Duplicate III |https://leetcode-cn.com/problems/contains-duplicate-iii/|[Solution](./src/main/java/com/learning/_220/Solution.java)| query |2020/5/20|
-| 32 | 206. Reverse Linked List |https://leetcode-cn.com/problems/reverse-linked-list/|[Solution](./src/main/java/com/learning/_206/Solution.java)| query |2020/5/22|
+| 32 | 206. Reverse Linked List |https://leetcode-cn.com/problems/reverse-linked-list/|[recursive](./src/main/java/com/learning/_206/Solution.java),[loop](./src/main/java/com/learning/_206/Solution2.java)| query |2020/5/22|

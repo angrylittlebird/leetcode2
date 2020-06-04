@@ -30,13 +30,17 @@ import com.learning.ListNode;
  */
 
 
-public class Solution {
+public class Solution2 {
     public ListNode reverseList(ListNode head) {
-        if (head == null || head.next == null) return head;
-        ListNode lastNode = reverseList(head.next);
+        ListNode pre = null, cur = head, succ;
+        while (cur != null) {
+            succ = cur.next;
 
-        head.next.next = head;
-        head.next = null;
-        return lastNode;
+            cur.next = pre;
+
+            pre = cur;
+            cur = succ;
+        }
+        return pre;
     }
 }
