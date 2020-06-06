@@ -35,4 +35,4 @@
 | 30 | 219. Contains Duplicate II |https://leetcode-cn.com/problems/contains-duplicate-ii/|[Solution](./src/main/java/com/learning/_219/Solution.java)| query |2020/5/18|
 | 31 | 220. Contains Duplicate III |https://leetcode-cn.com/problems/contains-duplicate-iii/|[Solution](./src/main/java/com/learning/_220/Solution.java)| query |2020/5/20|
 | 32 | 206. Reverse Linked List |https://leetcode-cn.com/problems/reverse-linked-list/|[recursive](./src/main/java/com/learning/_206/Solution.java),[loop](./src/main/java/com/learning/_206/Solution2.java)| query |2020/5/22|
-| 33 | 92. Reverse Linked List II |https://leetcode-cn.com/problems/reverse-linked-list-ii/|[recursive](./src/main/java/com/learning/_92/Solution.java)| query |2020/6/6|
+| 33 | 92. Reverse Linked List II |https://leetcode-cn.com/problems/reverse-linked-list-ii/|[recursive](./src/main/java/com/learning/_92/Solution.java),[loop](./src/main/java/com/learning/_92/Solution.java)| query |2020/6/6|
