@@ -41,3 +41,5 @@
 | 36 | 328. Odd Even Linked List |https://leetcode-cn.com/problems/odd-even-linked-list/|[solution](./src/main/java/com/learning/_328/Solution.java)| Linked List |2020/6/3|
 | 37 | 2. Add Two Numbers |https://leetcode-cn.com/problems/add-two-numbers/|[solution](./src/main/java/com/learning/_2/Solution.java)| Linked List |2020/6/13|
 | 38 | 445. Add Two Numbers II |https://leetcode-cn.com/problems/add-two-numbers-ii/|[solution](./src/main/java/com/learning/_445/Solution.java)| Linked List |2020/6/13|
+| 39 | 203. Remove Linked List Elements |https://leetcode-cn.com/problems/remove-linked-list-elements/|[solution](./src/main/java/com/learning/_203/Solution.java)| Linked List |2020/6/14|
+| 40 | 82. Remove Duplicates from Sorted List II |https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/|[recursive](./src/main/java/com/learning/_82/Solution2.java)| Linked List |2020/6/14|
