@@ -90,4 +90,12 @@ public class ListNode implements Serializable {
         }
         return cloneObj;
     }
+
+    @Override
+    public String toString() {
+        return "ListNode{" +
+                "val=" + val +
+                ", next=" + next.val +
+                '}';
+    }
 }

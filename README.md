@@ -46,3 +46,4 @@
 | 41 | 21. Merge Two Sorted Lists |https://leetcode-cn.com/problems/merge-two-sorted-lists/|[loop](./src/main/java/com/learning/_21/Solution.java),[recursive](./src/main/java/com/learning/_21/Solution2.java)| Linked List |2020/6/14|
 | 42 | 24. Swap Nodes in Pairs |https://leetcode-cn.com/problems/swap-nodes-in-pairs/|[loop](./src/main/java/com/learning/_24/Solution.java),[recursive](./src/main/java/com/learning/_24/Solution2.java)| Linked List |2020/6/14|
 | 43 | 25. Reverse Nodes in k-Group |https://leetcode-cn.com/problems/reverse-nodes-in-k-group/|[recursive](./src/main/java/com/learning/_25/Solution2.java),[loop](./src/main/java/com/learning/_25/Solution.java)| Linked List |2020/6/14|
+| 44 | 147. Insertion Sort List |https://leetcode-cn.com/problems/insertion-sort-list/|[recursive](./src/main/java/com/learning/_147/Solution.java)| Linked List |2020/6/14|
