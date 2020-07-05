@@ -93,9 +93,8 @@ public class ListNode implements Serializable {
 
     @Override
     public String toString() {
-        return "ListNode{" +
-                "val=" + val +
-                ", next=" + next.val +
-                '}';
+        Integer nextVal = next == null ? null : next.val;
+        return "val=" + val +
+                ", next=" + nextVal;
     }
 }
