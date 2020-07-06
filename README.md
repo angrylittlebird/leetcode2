@@ -49,3 +49,4 @@
 | 44 | 147. Insertion Sort List |https://leetcode-cn.com/problems/insertion-sort-list/|[recursive](./src/main/java/com/learning/_147/Solution.java)| Linked List |2020/6/14|
 | 45 | 148. Sort List |https://leetcode-cn.com/problems/sort-list/|[Solution](./src/main/java/com/learning/_148/Solution.java)| Linked List |2020/7/5|
 | 46 | 237. Delete Node in a Linked List |https://leetcode-cn.com/problems/delete-node-in-a-linked-list/|[Solution](./src/main/java/com/learning/_237/Solution.java)| Linked List |2020/7/6|
+| 47 | 19. Remove Nth Node From End of List |https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/|[Solution](./src/main/java/com/learning/_19/Solution.java)| Linked List |2020/7/6|
