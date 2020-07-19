@@ -52,3 +52,4 @@
 | 47 | 19. Remove Nth Node From End of List |https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/|[Solution](./src/main/java/com/learning/_19/Solution.java)| Linked List |2020/7/6|
 | 48 | 61. Rotate List |https://leetcode-cn.com/problems/rotate-list/|[Solution](./src/main/java/com/learning/_61/Solution.java)| Linked List |2020/7/6|
 | 49 | 143. Reorder List |https://leetcode-cn.com/problems/reorder-list/|[recursive](./src/main/java/com/learning/_143/Solution.java),[loop](./src/main/java/com/learning/_143/Solution2.java),[data structure](./src/main/java/com/learning/_143/Solution3.java)| Linked List |2020/7/9~10|
+| 50 | 234. Palindrome Linked List |https://leetcode-cn.com/problems/palindrome-linked-list/|[useStack](./src/main/java/com/learning/_234/Solution.java),[flipBackHalf](./src/main/java/com/learning/_234/Solution2.java),[flipTheFrontHalf](./src/main/java/com/learning/_234/Solution3.java)| Linked List |2020/7/19|
