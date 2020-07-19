@@ -55,3 +55,4 @@
 | 50 | 234. Palindrome Linked List |https://leetcode-cn.com/problems/palindrome-linked-list/|[useStack](./src/main/java/com/learning/_234/Solution.java),[flipBackHalf](./src/main/java/com/learning/_234/Solution2.java),[flipTheFrontHalf](./src/main/java/com/learning/_234/Solution3.java)| Linked List |2020/7/19|
 | 51 | 20. Valid Parentheses |https://leetcode-cn.com/problems/valid-parentheses/|[useStack](./src/main/java/com/learning/_20/Solution.java),[Optimize](./src/main/java/com/learning/_20/SolutionLittleOptimize.java)| Stack |2020/7/19|
 | 52 | 150. Evaluate Reverse Polish Notation |https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/|[useStack](./src/main/java/com/learning/_150/Solution.java),[withoutStack](./src/main/java/com/learning/_150/Solution2.java)| Stack |2020/7/19|
+| 53 | 71. Simplify Path |https://leetcode-cn.com/problems/simplify-path/|[useStack](./src/main/java/com/learning/_150/Solution.java)| Stack |2020/7/19|
