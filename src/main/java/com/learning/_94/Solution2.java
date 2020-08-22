@@ -1,4 +1,4 @@
-package com.learning._144;
+package com.learning._94;
 
 import com.learning.TreeNode;
 
@@ -12,17 +12,18 @@ import java.util.Stack;
  * @Description:
  */
 public class Solution2 {
-    public List<Integer> preorderTraversal(TreeNode root) {
+    public List<Integer> inorderTraversal(TreeNode root) {
         ArrayList<Integer> result = new ArrayList<>();
         Stack<TreeNode> treeNodes = new Stack<>();
         treeNodes.push(root);
 
-        while (!treeNodes.isEmpty()) {
-            TreeNode pop = treeNodes.pop();
-            if(pop == null) continue;
 
-            result.add(pop.val);
+        TreeNode pop = treeNodes.pop();
+        while (pop != null) {
+            if (pop == null) continue;
+
             treeNodes.push(pop.right);
+            treeNodes.push(pop);
             treeNodes.push(pop.left);
         }
 

@@ -57,3 +57,5 @@
 | 52 | 150. Evaluate Reverse Polish Notation |https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/|[useStack](./src/main/java/com/learning/_150/Solution.java),[withoutStack](./src/main/java/com/learning/_150/Solution2.java)| Stack |2020/7/19|
 | 53 | 71. Simplify Path |https://leetcode-cn.com/problems/simplify-path/|[useStack](./src/main/java/com/learning/_150/Solution.java)| Stack |2020/7/19|
 | 54 | 144. Binary Tree Preorder Traversal |https://leetcode-cn.com/problems/binary-tree-preorder-traversal/|[recursive](./src/main/java/com/learning/_144/Solution.java),[withStack](./src/main/java/com/learning/_144/Solution2.java)| Stack |2020/7/19|
+| 55 | 94. Binary Tree Inorder Traversal |https://leetcode-cn.com/problems/binary-tree-inorder-traversal/|[recursive](./src/main/java/com/learning/_94/Solution.java),[withStack](./src/main/java/com/learning/_94/Solution2.java)| Stack |2020/7/19|
+| 56 | 341. Flatten Nested List Iterator |https://leetcode-cn.com/problems/flatten-nested-list-iterator/|[recursive](./src/main/java/com/learning/_341/Solution.java)| Stack |2020/8/17|
