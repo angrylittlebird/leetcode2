@@ -19,9 +19,9 @@ public class Solution {
             Pair pair = queue.removeLast();
             int count = 1;
             while (count * count <= pair.num) {
-                if (pair.num == count * count) return pair.step + 1;
-
                 int num = pair.num - count * count;
+                if (num == 0) return pair.step + 1;
+
                 if (!visited[num]) {
                     queue.addFirst(new Pair(num, pair.step + 1));
                     visited[num] = true;
