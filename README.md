@@ -58,4 +58,7 @@
 | 53 | 71. Simplify Path |https://leetcode-cn.com/problems/simplify-path/|[useStack](./src/main/java/com/learning/_150/Solution.java)| Stack |2020/7/19|
 | 54 | 144. Binary Tree Preorder Traversal |https://leetcode-cn.com/problems/binary-tree-preorder-traversal/|[recursive](./src/main/java/com/learning/_144/Solution.java),[withStack](./src/main/java/com/learning/_144/Solution2.java)| Stack |2020/7/19|
 | 55 | 94. Binary Tree Inorder Traversal |https://leetcode-cn.com/problems/binary-tree-inorder-traversal/|[recursive](./src/main/java/com/learning/_94/Solution.java),[withStack](./src/main/java/com/learning/_94/Solution2.java)| Stack |2020/7/19|
-| 56 | 341. Flatten Nested List Iterator |https://leetcode-cn.com/problems/flatten-nested-list-iterator/|[recursive](./src/main/java/com/learning/_341/Solution.java)| Stack |2020/8/17|
+| 56 | 341. Flatten Nested List Iterator |https://leetcode-cn.com/problems/flatten-nested-list-iterator/|[solution](./src/main/java/com/learning/_341/NestedIterator.java)| List |2020/8/22|
+| 57 | 102. Binary Tree Level Order Traversal |https://leetcode-cn.com/problems/binary-tree-level-order-traversal/|[solution](./src/main/java/com/learning/_102/Solution.java)| Stack |2020/8/22|
+| 58 | 107，103，199
+| 59 | 279. Perfect Squares |https://leetcode-cn.com/problems/perfect-squares/|[solution](./src/main/java/com/learning/_59/Solution.java)| graph |2020/9/20|
