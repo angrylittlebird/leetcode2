@@ -69,3 +69,5 @@
 | 64 | 111. Minimum Depth of Binary Tree |https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/|[recursive](./src/main/java/com/learning/_111/Solution.java)| tree |2020/10/17|
 | 65 | 226. Invert Binary Tree |https://leetcode-cn.com/problems/invert-binary-tree/|[recursive](./src/main/java/com/learning/_226/Solution.java)| tree |2020/10/17|
 | 66 | 100. Same Tree |https://leetcode-cn.com/problems/same-tree/|[recursive](./src/main/java/com/learning/_100/Solution.java)| tree |2020/10/17|
+| 67 | 222. Count Complete Tree Nodes |https://leetcode-cn.com/problems/count-complete-tree-nodes/|[recursive](./src/main/java/com/learning/_222/Solution.java)| tree |2020/10/17|
+| 68 | 110. Balanced Binary Tree |https://leetcode-cn.com/problems/balanced-binary-tree/|[recursive](./src/main/java/com/learning/_110/Solution.java)| tree |2020/10/17|
