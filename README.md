@@ -61,4 +61,11 @@
 | 56 | 341. Flatten Nested List Iterator |https://leetcode-cn.com/problems/flatten-nested-list-iterator/|[solution](./src/main/java/com/learning/_341/NestedIterator.java)| List |2020/8/22|
 | 57 | 102. Binary Tree Level Order Traversal |https://leetcode-cn.com/problems/binary-tree-level-order-traversal/|[solution](./src/main/java/com/learning/_102/Solution.java)| Stack |2020/8/22|
 | 58 | 107，103，199
-| 59 | 279. Perfect Squares |https://leetcode-cn.com/problems/perfect-squares/|[solution](./src/main/java/com/learning/_279/Solution.java)|[DFS](./src/main/java/com/learning/_279/Solution2.java)| graph |2020/9/20|
+| 59 | 279. Perfect Squares |https://leetcode-cn.com/problems/perfect-squares/|[BFS](./src/main/java/com/learning/_279/Solution.java)|[DFS](./src/main/java/com/learning/_279/Solution2.java)| graph |2020/9/20|
+| 60 | 127. Word Ladder |https://leetcode-cn.com/problems/word-ladder/|[BFS](./src/main/java/com/learning/_127/Solution.java)|[DFS](./src/main/java/com/learning/_127/Solution.java)| graph |2020/10/13|
+| 61 | 347. Top K Frequent Elements |https://leetcode-cn.com/problems/top-k-frequent-elements/|[heap](./src/main/java/com/learning/_347/Solution.java)| heap |2020/10/14|
+| 62 | 23. Merge k Sorted Lists |https://leetcode-cn.com/problems/merge-k-sorted-lists/|[heap](./src/main/java/com/learning/_23/Solution.java)| heap |2020/10/17|
+| 63 | 104. Maximum Depth of Binary Tree |https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/|[recursive](./src/main/java/com/learning/_104/Solution.java)| tree |2020/10/17|
+| 64 | 111. Minimum Depth of Binary Tree |https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/|[recursive](./src/main/java/com/learning/_111/Solution.java)| tree |2020/10/17|
+| 65 | 226. Invert Binary Tree |https://leetcode-cn.com/problems/invert-binary-tree/|[recursive](./src/main/java/com/learning/_226/Solution.java)| tree |2020/10/17|
+| 66 | 100. Same Tree |https://leetcode-cn.com/problems/same-tree/|[recursive](./src/main/java/com/learning/_100/Solution.java)| tree |2020/10/17|
