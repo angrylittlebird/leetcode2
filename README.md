@@ -71,3 +71,4 @@
 | 66 | 100. Same Tree |https://leetcode-cn.com/problems/same-tree/|[recursive](./src/main/java/com/learning/_100/Solution.java)| tree |2020/10/17|
 | 67 | 222. Count Complete Tree Nodes |https://leetcode-cn.com/problems/count-complete-tree-nodes/|[recursive](./src/main/java/com/learning/_222/Solution.java)| tree |2020/10/17|
 | 68 | 110. Balanced Binary Tree |https://leetcode-cn.com/problems/balanced-binary-tree/|[recursive](./src/main/java/com/learning/_110/Solution.java)| tree |2020/10/17|
+| 69 | 112. Path Sum |https://leetcode-cn.com/problems/path-sum/|[recursive](./src/main/java/com/learning/_112/Solution.java)| tree |2020/10/17|
