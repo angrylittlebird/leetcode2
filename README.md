@@ -72,3 +72,6 @@
 | 67 | 222. Count Complete Tree Nodes |https://leetcode-cn.com/problems/count-complete-tree-nodes/|[recursive](./src/main/java/com/learning/_222/Solution.java)| tree |2020/10/17|
 | 68 | 110. Balanced Binary Tree |https://leetcode-cn.com/problems/balanced-binary-tree/|[recursive](./src/main/java/com/learning/_110/Solution.java)| tree |2020/10/17|
 | 69 | 112. Path Sum |https://leetcode-cn.com/problems/path-sum/|[recursive](./src/main/java/com/learning/_112/Solution.java)| tree |2020/10/17|
+| 70 | 404. Sum of Left Leaves |https://leetcode-cn.com/problems/sum-of-left-leaves/|[recursive](./src/main/java/com/learning/_404/Solution.java)| tree |2020/10/18|
+| 71 | 257. Binary Tree Paths |https://leetcode-cn.com/problems/binary-tree-paths/|[recursive](./src/main/java/com/learning/_257/Solution.java)| tree |2020/10/18|
+| 72 | 113. Path Sum II |https://leetcode-cn.com/problems/path-sum-ii/|[recursive](./src/main/java/com/learning/_113/Solution.java)| tree |2020/10/21|
