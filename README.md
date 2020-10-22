@@ -75,3 +75,4 @@
 | 70 | 404. Sum of Left Leaves |https://leetcode-cn.com/problems/sum-of-left-leaves/|[recursive](./src/main/java/com/learning/_404/Solution.java)| tree |2020/10/18|
 | 71 | 257. Binary Tree Paths |https://leetcode-cn.com/problems/binary-tree-paths/|[recursive](./src/main/java/com/learning/_257/Solution.java)| tree |2020/10/18|
 | 72 | 113. Path Sum II |https://leetcode-cn.com/problems/path-sum-ii/|[recursive](./src/main/java/com/learning/_113/Solution.java)| tree |2020/10/21|
+| 73 | 129. Sum Root to Leaf Numbers |https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/|[recursive](./src/main/java/com/learning/_129/Solution2.java)| tree |2020/10/22|
