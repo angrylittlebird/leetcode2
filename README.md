@@ -77,3 +77,5 @@
 | 72 | 113. Path Sum II |https://leetcode-cn.com/problems/path-sum-ii/|[recursive](./src/main/java/com/learning/_113/Solution.java)| tree |2020/10/21|
 | 73 | 129. Sum Root to Leaf Numbers |https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/|[recursive](./src/main/java/com/learning/_129/Solution2.java)| tree |2020/10/22|
 | 74 | 437. Path Sum III |https://leetcode-cn.com/problems/path-sum-iii/|[recursive](./src/main/java/com/learning/_437/Solution.java)| tree |2020/11/03|
+| 75 | 235. Lowest Common Ancestor of a Binary Search Tree |https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/|[recursive](./src/main/java/com/learning/_235/Solution.java)| tree |2020/11/04|
+| 76 | 98. Validate Binary Search Tree |https://leetcode-cn.com/problems/validate-binary-search-tree/|[recursive](./src/main/java/com/learning/_98/Solution.java)| tree |2020/11/04|
