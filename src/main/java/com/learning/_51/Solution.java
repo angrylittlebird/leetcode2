@@ -23,6 +23,7 @@ public class Solution {
     private void solveNQueensHelper(List<List<String>> chessBoard, int row) {
         if (row == chessBoard.size()) {
             res.add(squash(chessBoard));
+            return;
         }
 
         for (int i = 0; i < chessBoard.size(); i++) {
